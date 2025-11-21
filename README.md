@@ -52,5 +52,3 @@ Performs:
 
 ---
 
-## 📂 Project Structure
-
